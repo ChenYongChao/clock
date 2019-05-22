@@ -15,14 +15,14 @@ body {
   background: -webkit-radial-gradient(#808080, #000000 70%);
   background: radial-gradient(#808080, #000000 70%);
   color: #fff;
-  font: bold 30px Arial, sans-serif;
+  font: bold 60px Arial, sans-serif;
 }
 
 .digit {
   position: absolute;
-  width: 104%;
-  height: 104%;
-  margin: -2%;
+  width: 120%;
+  height: 120%;
+  margin: -7%;
   text-align: center;
 }
 .digit span {
