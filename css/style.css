@@ -4,18 +4,18 @@ body {
 
 #watch {
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   border-radius: 50%;
-  width: 700px;
-  height: 700px;
+  width: 750px;
+  height: 750px;
   background: -webkit-radial-gradient(#808080, #000000 70%);
   background: radial-gradient(#808080, #000000 70%);
   color: #fff;
-  font: bold 100px Arial, sans-serif;
+  font: bold 120px Arial, sans-serif;
 }
 
 .digit {
@@ -185,7 +185,7 @@ body {
   height: 100%;
   background: no-repeat top center;
   background-size: 130px;
-  background-position: center 10%;
+  background-position: center 14%;
   -webkit-transition: -webkit-transform 1s;
           transition: transform 1s;
 }
