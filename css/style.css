@@ -20,8 +20,8 @@ body {
 
 .digit {
   position: absolute;
-  width: 104%;
-  height: 104%;
+  width: 154%;
+  height: 154%;
   margin: -2%;
   text-align: center;
 }
@@ -181,10 +181,10 @@ body {
 #minutes,
 #minutes:after {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 150%;
+  height: 150%;
   background: no-repeat top center;
-  background-size: 90px;
+  background-size: 110px;
   background-position: center 5%;
   -webkit-transition: -webkit-transform 1s;
           transition: transform 1s;
