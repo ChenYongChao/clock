@@ -15,7 +15,7 @@ body {
   background: -webkit-radial-gradient(#808080, #000000 70%);
   background: radial-gradient(#808080, #000000 70%);
   color: #fff;
-  font: bold 80px Arial, sans-serif;
+  font: bold 50px Arial, sans-serif;
 }
 
 .digit {
