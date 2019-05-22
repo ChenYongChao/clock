@@ -184,7 +184,7 @@ body {
   width: 150%;
   height: 150%;
   background: no-repeat top center;
-  background-size: 110px;
+  background-size: 90px;
   background-position: center 5%;
   -webkit-transition: -webkit-transform 1s;
           transition: transform 1s;
