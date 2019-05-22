@@ -10,19 +10,19 @@ body {
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   border-radius: 50%;
-  width: 650px;
-  height: 650px;
+  width: 700px;
+  height: 700px;
   background: -webkit-radial-gradient(#808080, #000000 70%);
   background: radial-gradient(#808080, #000000 70%);
   color: #fff;
-  font: bold 80px Arial, sans-serif;
+  font: bold 100px Arial, sans-serif;
 }
 
 .digit {
   position: absolute;
   width: 120%;
   height: 120%;
-  margin: -7%;
+  margin: -10%;
   text-align: center;
 }
 .digit span {
@@ -185,7 +185,7 @@ body {
   height: 100%;
   background: no-repeat top center;
   background-size: 130px;
-  background-position: center 5%;
+  background-position: center 10%;
   -webkit-transition: -webkit-transform 1s;
           transition: transform 1s;
 }
