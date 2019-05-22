@@ -20,8 +20,8 @@ body {
 
 .digit {
   position: absolute;
-  width: 154%;
-  height: 154%;
+  width: 104%;
+  height: 104%;
   margin: -2%;
   text-align: center;
 }
